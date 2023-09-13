@@ -50,7 +50,7 @@ a{
 .main-Services{
     background-color: rgb(207, 204, 204);
     padding: 10px;
-    height: 4000px;
+/*     height: 4000px; */
     border-radius: 20px;
     margin: 20px;
 }
