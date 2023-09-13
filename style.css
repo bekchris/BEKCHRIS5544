@@ -9,7 +9,7 @@ body{
 .header{ 
     height: 800px;
     background-repeat: no-repeat;
-    background-image: url(./images/download\ bg.jfif);
+    background-image: url(./bg.jfif);
     background-size: contain;
     background-position: right;
     background-color: black;
