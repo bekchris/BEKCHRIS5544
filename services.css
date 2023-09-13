@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
+body {
+  background-color: rgb(250, 246, 246);
+}
+header{ 
+    height: 800px;
+    background-repeat: no-repeat;
+    background-image: url(./images/download\ bg.jfif);
+    background-size: contain;
+    background-position: right;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+h1{
+    color: yellow;
+    font-size:90px;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+span{
+    font-size: 100%;
+    color: gold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.nav-links{
+    margin-top: 20px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+.services {
+    color: blue;
+  margin: 30px;
+  font-size: 50px;
+}
+.main-Services{
+    background-color: rgb(207, 204, 204);
+    padding: 10px;
+    height: 4000px;
+    border-radius: 20px;
+    margin: 20px;
+}
+.Services{
+    border-radius: 10px;
+    background-color: rgb(156, 146, 146);
+    margin: 20px;
+    
+}
+.image-header{
+    display: flex;
+    justify-content: space-between;
+}
+h6{
+    text-align: center;
+    margin-right: 200px;
+    margin-top: 200px;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Services-header{
+    text-align: center;
+    font-size: 60px;
+}
+.Services-img{  
+    border-radius: 10px;
+}
+.Services-p{
+    padding-inline: 150px;
+    font-size: 30px;
+    padding-bottom: 70px;
+    padding-top: 20px;
+}
+footer{
+    background-color: black;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-link{
+    padding: 20px;
+    padding-top: 100px;
+    font-size: 30px;
+}
+.footer-contact{
+    width: 40%;
+    display: block;
+    margin: 10px;
+    margin-block: 20px;
+}
+label{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: aqua;
+}
+input{
+    width: 100%;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+textarea{
+    width: 100%;
+    padding: 15px;
+}
+.submite{
+    width: 260px;
+}
+.copyright{
+    color: yellow;
+    padding: 20px;
+}
